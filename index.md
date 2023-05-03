@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Sign language Detection System
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Sign Language Detection System using Image Classifiction algorithm. Project aims to help differently abled person to express themselves in a convinient way. We take real time video, extracting image frames and using Deep Learning based Image Classification Alorithm CNN. 
 
 ## Header 2
 
